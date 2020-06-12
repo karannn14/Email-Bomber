@@ -1,4 +1,4 @@
-
+'''
 import smtplib
 import sys
 
@@ -35,7 +35,7 @@ def banner():
 ***************************************************************''')
                                                                    
 
-'''
+
 class Email_Bomber:
     count = 0
 
