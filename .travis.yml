@@ -9,4 +9,4 @@ before_script:
 
 
 script:
-  - Email-Bomber/Email-Bomber.py
+  - Email-Bomber/Email_Bomber.py
