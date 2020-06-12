@@ -5,7 +5,7 @@ python:
 before_script:
   - sudo apt-get install python
   
-script: python3 Email-Bomber.py
+script: python3 Email_Bomber.py
 
 
 
