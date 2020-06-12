@@ -1,1 +1,12 @@
+language: python
+python:
+  - 3.6
+  - 3.7
+  - 3.8
+  
+before_script:
+  - sudo apt-get install python3.6
 
+
+script:
+  - Email-Bomber/Email-Bomber.py
