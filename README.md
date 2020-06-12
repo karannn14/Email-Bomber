@@ -1,5 +1,6 @@
 # Email-Bomber 
-/bitrise/:appId/:branch??token=GCIdEzacE4GW32jLVrZb7A
+[![Build Status](https://travis-ci.com/karannn14/Email-Bomber.svg?branch=master)](https://travis-ci.com/karannn14/Email-Bomber)
+
 
 Python Script for Email Bombing which supports Gmail, Yahoo, Hotmail/Outlook
 
