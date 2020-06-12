@@ -5,7 +5,7 @@ python:
   - 3.8
   
 before_script:
-  - sudo apt-get install python3.6
+  - sudo apt-get install python
 
 
 script:
