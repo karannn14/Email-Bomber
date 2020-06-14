@@ -112,7 +112,7 @@ class Email_Bomber:
 
     def attack(self):
         print(bcolors.RED + '\n**** Attacking ****')
-        for email in range(self.amount+1):
+        for _ in range(self.amount+1):
             self.send()
         self.s.close()
         print(bcolors.GREEN+ '\n**** Attack Finished ****')
