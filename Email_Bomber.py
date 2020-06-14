@@ -76,7 +76,7 @@ class Email_Bomber:
                 default_port = False
                 self.port = int(input(bcolors.GREEN + 'Enter port number : '))
 
-            if default_port == True:
+            if default_port is True:
                 self.port = int(587)
 
             if self.server == '1':
