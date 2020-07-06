@@ -4,7 +4,7 @@
 [![CodeScene System Mastery](https://codescene.io/projects/8448/status-badges/system-mastery)](https://codescene.io/projects/8448)
 [![BCH compliance](https://bettercodehub.com/edge/badge/karannn14/Email-Bomber?branch=master)](https://bettercodehub.com/)
 [![CodeScene general](https://codescene.io/images/analyzed-by-codescene-badge.svg)](https://codescene.io/projects/8448)
-
+[![codecov](https://codecov.io/gh/karannn14/Email-Bomber/branch/master/graph/badge.svg)](https://codecov.io/gh/karannn14/Email-Bomber)
 Python Script for Email Bombing which supports Gmail, Yahoo, Outlook
 # Usage
 1. git clone https://github.com/karannn14/Email-Bomber.git
